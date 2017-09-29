@@ -1,2 +1,2 @@
 # Exercise
-We resolved the conflict!
+Hello again!!!
