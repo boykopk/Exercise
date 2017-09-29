@@ -1,2 +1,2 @@
 # Exercise
-Try
+We resolved the conflict!
