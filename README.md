@@ -1,2 +1,2 @@
 # Exercise
-We resolved again the conflict.
+the conflict.
