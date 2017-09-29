@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello
+=======
+New test
+Make conflict.
+>>>>>>> 6d3d3f7676cd8afcd41df52af4718850a566d521
