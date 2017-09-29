@@ -1,2 +1,2 @@
 # Exercise
-Edited again in master branch.
+We resolved again the conflict.
